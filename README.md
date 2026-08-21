@@ -7,14 +7,14 @@
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-Ingeniera de Sistemas especializada en **Desarrollo Frontend** y apasionada por la construcción de interfaces web modernas, modulares y de alto rendimiento.
+Systems Engineer specialized in **Frontend Development**, passionate about building modern, modular, and high-performance web interfaces.
 
-- 💻 **Frontend Focus:** Construcción de arquitecturas escalables y diseño modular con **React, Astro, Vue, TypeScript y Tailwind CSS**.
-- 🤖 **IA & Workflows:** Posgrado en Ciencia de Datos e IA; integro agentes autónomos (Claude Code, MCPs) y flujos asistidos para optimizar tiempos de entrega, pruebas y calidad de código.
-- 🛠️ **Full Stack Foundation:** Experiencia diseñando APIs RESTful con **Laravel y Node.js**, integrando bases de datos SQL y aplicando metodologías ágiles (Scrum/Kanban).
-- 🎯 **Enfoque:** Código limpio, tipado estricto, buenas prácticas y atención al detalle en UX/UI.
+- 💻 **Frontend Focus:** Designing scalable architectures and modular UI components with **React, Astro, Vue, TypeScript, and Tailwind CSS**.
+- 🤖 **AI & Workflows:** Postgraduate background in Data Science & AI; I integrate autonomous agents (Claude Code, MCPs) and AI-assisted workflows to accelerate delivery, test coverage, and overall code quality.
+- 🛠️ **Full Stack Foundation:** Experience architecting RESTful APIs with **Laravel and Node.js**, integrating SQL databases, and working under agile frameworks (Scrum/Kanban).
+- 🎯 **Core Values:** Clean code, strict typing, industry best practices, and a strong eye for detail in UX/UI.
 
 ---
 
